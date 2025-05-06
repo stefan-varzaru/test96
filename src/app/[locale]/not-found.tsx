@@ -1,14 +1,10 @@
-'use client';
-import { useTranslations } from 'next-intl';
-
+// src/app/[locale]/not-found.tsx (Simplified for testing)
 export default function NotFoundPage() {
-  const t = useTranslations('NotFound');
-
-  return (
-    <div style={{ textAlign: 'center', marginTop: '50px' }}>
-      <h1>{t('title')}</h1>
-      <p>{t('message')}</p>
-    </div>
-  );
-}
-
+    return (
+      <div style={{ textAlign: "center", marginTop: "50px" }}>
+        <h1>404 - Localized Page Not Found</h1>
+        <p>The page you are looking for in this language does not exist.</p>
+      </div>
+    );
+  }
+  
