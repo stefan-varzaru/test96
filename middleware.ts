@@ -1,24 +1,16 @@
 import createMiddleware from 'next-intl/middleware';
-import {locales, localePrefix} from '@/navigation'; // Import from your navigation.ts
+
+// Define locales and localePrefix directly in this file:
+export const locales = ['en', 'ro'] as const;
+export const localePrefix = 'as-needed'; // Or 'always' or 'never'
 
 export default createMiddleware({
+  locales: locales, // Use the 'locales' defined above
   defaultLocale: 'en',
-  locales,
-  localePrefix
+  localePrefix: localePrefix, // Use the 'localePrefix' defined above
+  pathnames: {}
 });
 
 export const config = {
-  matcher: [
-    // Enable a redirect to a matching locale at the root
-    '/',
-
-    // Set a cookie to remember the previous locale for
-    // all requests that have a locale prefix
-    '/([\\w-]+)/:path*', // Adjusted to match typical locale prefixes
-
-    // Enable redirects that add missing locales
-    // (e.g. `/pathnames` -> `/en/pathnames`)
-    '/((?!_next|_vercel|api|.*\\..*).*)'
-  ]
+  matcher: ['/', '/(ro|en)/:path*', '/((?!api|_next|_vercel|.*\..*).*)"]
 };
-
