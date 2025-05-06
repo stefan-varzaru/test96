@@ -1,0 +1,43 @@
+{
+  "Metadata": {
+    "title": "Consultanță și Servicii | Management de Proiect, Consultanță de Afaceri, Managementul Riscului",
+    "description": "Servicii de consultanță expertă în management de proiect, strategie de afaceri și managementul riscului pentru a stimula succesul dumneavoastră."
+  },
+  "Header": {
+    "home": "Acasă",
+    "services": "Servicii",
+    "testimonials": "Testimoniale",
+    "contact": "Contact",
+    "language_en": "EN",
+    "language_ro": "RO"
+  },
+  "Homepage": {
+    "hero_title": "Dezvoltați-vă Afacerea cu Consultanță Expertă",
+    "hero_subtitle": "Specializați în Management de Proiect, Strategie de Afaceri și Atenuarea Riscurilor.",
+    "cta_button": "Află Mai Mult",
+    "services_title": "Serviciile Noastre Principale",
+    "service_pm_title": "Management de Proiect",
+    "service_pm_desc": "Livrarea proiectelor la timp și în buget prin planificare, execuție și monitorizare expertă.",
+    "service_bc_title": "Consultanță de Afaceri",
+    "service_bc_desc": "Perspective strategice și planuri acționabile pentru optimizarea operațiunilor, stimularea creșterii și îmbunătățirea performanței.",
+    "service_rm_title": "Managementul Riscului",
+    "service_rm_desc": "Identificarea, evaluarea și atenuarea riscurilor pentru a vă proteja activele și a asigura continuitatea afacerii.",
+    "testimonials_title": "Ce Spun Clienții Noștri",
+    "testimonial_1_text": "Expertiza lor în managementul de proiect a fost crucială pentru succesul lansării produsului nostru. Recomand cu căldură!",
+    "testimonial_1_author": "Alex P., CEO Startup Tehnologic",
+    "testimonial_2_text": "Consultanța de afaceri a oferit o direcție clară și a îmbunătățit semnificativ eficiența noastră operațională.",
+    "testimonial_2_author": "Maria D., Manager Retail",
+    "testimonial_3_text": "Evaluarea cuprinzătoare a riscurilor ne-a salvat de potențiale capcane. Serviciu de neprețuit.",
+    "testimonial_3_author": "Ion S., Director Financiar",
+    "contact_title": "Contactați-ne",
+    "contact_text": "Sunteți gata să discutați cum vă putem ajuta afacerea să prospere? Contactați-ne astăzi pentru o consultație.",
+    "contact_button": "Contact"
+  },
+  "Footer": {
+    "copyright": "© {year} Numele Companiei Dumneavoastră. Toate drepturile rezervate.",
+    "placeholder_address": "Str. Afacerilor 123, Suite 100, Oraș, Țară",
+    "placeholder_phone": "+40 (XXX) XXX-XXX",
+    "placeholder_email": "contact@compania-dvs.ro"
+  }
+}
+

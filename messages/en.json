@@ -1,0 +1,43 @@
+{
+  "Metadata": {
+    "title": "Consulting & Services | Project Management, Business Consulting, Risk Management",
+    "description": "Expert consulting services in project management, business strategy, and risk management to drive your success."
+  },
+  "Header": {
+    "home": "Home",
+    "services": "Services",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "language_en": "EN",
+    "language_ro": "RO"
+  },
+  "Homepage": {
+    "hero_title": "Elevate Your Business with Expert Consulting",
+    "hero_subtitle": "Specializing in Project Management, Business Strategy, and Risk Mitigation.",
+    "cta_button": "Learn More",
+    "services_title": "Our Core Services",
+    "service_pm_title": "Project Management",
+    "service_pm_desc": "Delivering projects on time and within budget through expert planning, execution, and monitoring.",
+    "service_bc_title": "Business Consulting",
+    "service_bc_desc": "Strategic insights and actionable plans to optimize operations, drive growth, and enhance performance.",
+    "service_rm_title": "Risk Management",
+    "service_rm_desc": "Identifying, assessing, and mitigating risks to protect your assets and ensure business continuity.",
+    "testimonials_title": "What Our Clients Say",
+    "testimonial_1_text": "Their project management expertise was crucial for our product launch success. Highly recommended!",
+    "testimonial_1_author": "Alex P., Tech Startup CEO",
+    "testimonial_2_text": "The business consulting provided clear direction and significantly improved our operational efficiency.",
+    "testimonial_2_author": "Maria D., Retail Manager",
+    "testimonial_3_text": "Comprehensive risk assessment saved us from potential pitfalls. Invaluable service.",
+    "testimonial_3_author": "John S., Finance Director",
+    "contact_title": "Get in Touch",
+    "contact_text": "Ready to discuss how we can help your business thrive? Contact us today for a consultation.",
+    "contact_button": "Contact Us"
+  },
+  "Footer": {
+    "copyright": "© {year} Your Company Name. All rights reserved.",
+    "placeholder_address": "123 Business Ave, Suite 100, City, Country",
+    "placeholder_phone": "+1 (555) 123-4567",
+    "placeholder_email": "contact@yourcompany.com"
+  }
+}
+
