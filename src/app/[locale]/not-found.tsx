@@ -1,4 +1,4 @@
-// src/app/[locale]/not-found.tsx
+'use client';
 import { useTranslations } from 'next-intl';
 
 export default function NotFoundPage() {
