@@ -1,9 +1,9 @@
 
 // Ensure this is a client component
 'use client';
-
 import React from 'react';
-import { useTranslations, Link, usePathname } from 'next-intl'; // Import directly for v4.1
+import { useTranslations } from 'next-intl'; // This one is correct
+import { Link, usePathname } from 'next-intl/navigation'; // Corrected path for Link and usePathname
 
 const Header = () => {
   const t = useTranslations('Header');
