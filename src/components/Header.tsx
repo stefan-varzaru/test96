@@ -3,7 +3,7 @@
 'use client';
 import React from 'react';
 import { useTranslations } from 'next-intl'; // This one is correct
-import { Link, usePathname } from 'next-intl/navigation'; // Corrected path for Link and usePathname
+import { Link, usePathname } from '@/navigation';
 
 const Header = () => {
   const t = useTranslations('Header');
