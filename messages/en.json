@@ -9,7 +9,8 @@
     "testimonials": "Testimonials",
     "contact": "Contact",
     "language_en": "EN",
-    "language_ro": "RO"
+    "language_ro": "RO",
+    "siteTitle": "Consulting Co."
   },
   "Homepage": {
     "hero_title": "Elevate Your Business with Expert Consulting",
@@ -38,6 +39,10 @@
     "placeholder_address": "123 Business Ave, Suite 100, City, Country",
     "placeholder_phone": "+1 (555) 123-4567",
     "placeholder_email": "contact@yourcompany.com"
+  },
+  "NotFound": {
+    "title": "Page Not Found",
+    "message": "Oops! The page you are looking for does not exist or has been moved."
   }
 }
 

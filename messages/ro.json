@@ -9,7 +9,8 @@
     "testimonials": "Testimoniale",
     "contact": "Contact",
     "language_en": "EN",
-    "language_ro": "RO"
+    "language_ro": "RO",
+    "siteTitle": "Consulting Co."
   },
   "Homepage": {
     "hero_title": "Dezvoltați-vă Afacerea cu Consultanță Expertă",
@@ -38,6 +39,10 @@
     "placeholder_address": "Str. Afacerilor 123, Suite 100, Oraș, Țară",
     "placeholder_phone": "+40 (XXX) XXX-XXX",
     "placeholder_email": "contact@compania-dvs.ro"
+  },
+  "NotFound": {
+    "title": "Pagină Negăsită",
+    "message": "Oops! Pagina pe care o căutați nu există sau a fost mutată."
   }
 }
 
